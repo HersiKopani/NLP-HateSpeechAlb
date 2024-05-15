@@ -40,7 +40,7 @@ git clone https://github.com/yourusername/NLP-HateSpeechAlb.git
 If you use the PAR database or refer to the associated paper in your research work, please cite it as:
 
 ```
-Kopani, H., & Llapushi, R. (2024). Fine-Tuning GPT-3.5 for Hate Speech Detection in Albanian YouTube Comments: Challenges and Analysis. Journal/Conference Name, Volume(Issue), Page Range. DOI/URL.
+Kopani, H., & Llapushi, R. (2024). Fine-Tuning GPT-3.5 for Hate Speech Detection in Albanian YouTube Comments: Challenges and Analysis.
 ```
 
 ## Contact
