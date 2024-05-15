@@ -24,7 +24,7 @@ To utilize the PAR database for hate speech detection research or experimentatio
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/PAR-database.git
+git clone https://github.com/yourusername/NLP-HateSpeechAlb.git
 ```
 
 2. Access the dataset files in the repository, which include labeled Albanian YouTube comments categorized under different topics.
